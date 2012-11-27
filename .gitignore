@@ -11,6 +11,10 @@ Makefile
 config.h
 config.log
 config.status
+confdefs.h
+conftest.in
+conftest.nl
+conftest.out
 keywordhash.h
 lemon
 lempar.c
